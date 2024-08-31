@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>894</width>
-    <height>507</height>
+    <width>1185</width>
+    <height>1157</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,12 +18,12 @@
     <rect>
      <x>67</x>
      <y>67</y>
-     <width>761</width>
-     <height>361</height>
+     <width>1131</width>
+     <height>901</height>
     </rect>
    </property>
    <property name="text">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PDF Tools - Informazioni Versione: 1.0.0 PDF Tools è un'applicazione semplice e intuitiva per gestire i file PDF. Con PDF Tools, puoi comprimere, aggiungere filigrane e visualizzare file PDF in modo rapido ed efficiente. Funzionalità principali: - Comprimere i file PDF per ridurre le dimensioni. - Aggiungere filigrane personalizzate ai tuoi documenti PDF. - Visualizzare i PDF direttamente all'interno dell'applicazione. Sviluppato da: [Il tuo nome] Email: [la tua email] Sito web: [il tuo sito web] Ringraziamenti: Un ringraziamento speciale a tutte le persone e le comunità open source che hanno contribuito allo sviluppo di questo progetto. Copyright © [Anno] [Il tuo nome]. Tutti i diritti riservati.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:700;&quot;&gt;PDF Tools - Informazioni&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Versione: 1.0.0&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;PDF Tools è un'applicazione semplice e intuitiva per la gestione dei file PDF. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Con PDF Tools, puoi comprimere, aggiungere filigrane e visualizzare i file&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; PDF in modo rapido ed efficiente.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Funzionalità principali:&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;- Comprimere i file PDF per ridurre le dimensioni.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;- Aggiungere filigrane personalizzate ai tuoi documenti PDF.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;- Visualizzare i PDF direttamente all'interno dell'applicazione.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Sviluppato da: Alessandro Castaldi&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Email: notifiche72@gmail.com&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Sito web: https://unpoditutto.info/&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Ringraziamenti: Un ringraziamento speciale a tutte le persone e le comunità &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;open source che hanno contribuito allo sviluppo di questo progetto.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Copyright © 2024 Alessandro Castaldi. Tutti i diritti riservati.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
  </widget>
