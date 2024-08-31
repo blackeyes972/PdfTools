@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>894</width>
+    <height>507</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="aboutText">
+   <property name="geometry">
+    <rect>
+     <x>67</x>
+     <y>67</y>
+     <width>761</width>
+     <height>361</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PDF Tools - Informazioni Versione: 1.0.0 PDF Tools è un'applicazione semplice e intuitiva per gestire i file PDF. Con PDF Tools, puoi comprimere, aggiungere filigrane e visualizzare file PDF in modo rapido ed efficiente. Funzionalità principali: - Comprimere i file PDF per ridurre le dimensioni. - Aggiungere filigrane personalizzate ai tuoi documenti PDF. - Visualizzare i PDF direttamente all'interno dell'applicazione. Sviluppato da: [Il tuo nome] Email: [la tua email] Sito web: [il tuo sito web] Ringraziamenti: Un ringraziamento speciale a tutte le persone e le comunità open source che hanno contribuito allo sviluppo di questo progetto. Copyright © [Anno] [Il tuo nome]. Tutti i diritti riservati.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
